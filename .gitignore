@@ -1,5 +1,5 @@
 # credentials file
-credentials.json
+/activity/credentials.json
 # dependencies
 /activity/node_modules
 # image produced on build

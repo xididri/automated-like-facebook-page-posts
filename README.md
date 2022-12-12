@@ -17,3 +17,10 @@ Steps in the Automation Process:
 11. Click on the Like button
 
 ![demo-FB-Automation](https://user-images.githubusercontent.com/22445094/91477789-7f922000-e8bc-11ea-8c70-69617823a082.gif)
+
+# usage
+
+- fill FB username and password in activity/credentials.json file
+- `cd activity`
+- `npm i`
+- `node automate_FB.js "./credentials.json" "https://m.facebook.com/SomeFacebookPage" 1000`
