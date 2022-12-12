@@ -1,2 +1,6 @@
+# credentials file
 credentials.json
+# dependencies
+/activity/node_modules
+# image produced on build
 Demo/demo_FB_Automation.webm
